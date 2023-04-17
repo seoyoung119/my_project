@@ -1,0 +1,22 @@
+total 128
+drwx-----x  10 oss_22100428 oss_22100428  4096  4월 17 16:38 .
+drwxr-xr-x 144 root         root          4096  3월 21 22:15 ..
+-rw-------   1 oss_22100428 oss_22100428  9381  4월 17 16:26 .bash_history
+-rw-r--r--   1 oss_22100428 oss_22100428   220  4월  5  2018 .bash_logout
+-rw-r--r--   1 oss_22100428 oss_22100428  3771  4월  5  2018 .bashrc
+drwx------   2 oss_22100428 oss_22100428  4096  3월 24 03:35 .cache
+-rw-rw-r--   1 oss_22100428 oss_22100428    79  4월 10 22:42 .gitconfig
+drwx------   3 oss_22100428 oss_22100428  4096  3월 24 03:35 .gnupg
+drwxrwxr-x   3 oss_22100428 oss_22100428  4096  4월 14 10:55 .local
+-rw-r--r--   1 oss_22100428 oss_22100428   807  4월  5  2018 .profile
+-rw-------   1 oss_22100428 oss_22100428 12288  4월  7 10:30 .test.c.swp
+-rw-------   1 oss_22100428 oss_22100428 18004  4월 15 18:14 .viminfo
+drwxrwxr-x   5 oss_22100428 oss_22100428  4096  4월 14 10:20 2023OSSL
+-rw-r--r--   2 oss_22100428 oss_22100428  8980  4월 16  2018 examples.desktop
+-rw-r--r--   2 oss_22100428 oss_22100428  8980  4월 16  2018 examples.desktop2
+drwxrwxr-x   2 oss_22100428 oss_22100428  4096  3월 24 10:47 lab04
+drwxrwxr-x   3 oss_22100428 oss_22100428  4096  4월 10 14:47 lab06
+drwxrwxr-x   2 oss_22100428 oss_22100428  4096  4월 17 15:35 lab6
+-rw-rw-r--   1 oss_22100428 oss_22100428     0  4월 17 16:38 list.txt
+-rw-rw-r--   1 oss_22100428 oss_22100428   112  4월  3 19:48 ls-output.txt
+drwxrwxr-x   5 oss_22100428 oss_22100428  4096  4월 17 15:47 test

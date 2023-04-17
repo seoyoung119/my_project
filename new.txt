@@ -1,0 +1,5 @@
+ls: cannot access '/bin/usr': No such file or directory
+ls: cannot access '/bin/usr': No such file or directory
+aaaaaaaa
+aaa
+aaaaa.
